@@ -45,7 +45,7 @@ weight = 20
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fa fa-fw fa-bullhorn'></i> About"
-url = "https://learn.r-journalism.com/en/about"
+url = "/en/about"
 weight = 30
 
 
@@ -69,7 +69,7 @@ weight = 10
 
 [[Languages.jp.menu.shortcuts]]
 name = "<i class='fa fa-fw fa-bullhorn'></i> About"
-url = "https://learn.r-journalism.com/jp/about"
+url = "/jp/about"
 weight = 30
 
 
@@ -92,7 +92,7 @@ weight = 10
 
 [[Languages.es.menu.shortcuts]]
 name = "<i class='fa fa-fw fa-bullhorn'></i> Acerca de"
-url = "https://learn.r-journalism.com/es/about"
+url = "/es/about"
 weight = 30
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
