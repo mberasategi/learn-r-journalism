@@ -1,14 +1,14 @@
 ---
-title: Visualizing data
+title: Visualizar datos
 weight: 5
 pre: "<b>4. </b>"
 chapter: true
 ---
 
 
-### Chapter 4
+### Capítulo 4
 
-# Visualizing data
+# Visualizar datos
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

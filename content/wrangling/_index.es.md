@@ -1,13 +1,13 @@
 ---
-title: Wrangling data
+title: Manipular los datos
 weight: 4
 pre: "<b>3. </b>"
 chapter: true
 ---
 
-### Chapter 3
+### Capítulo 3
 
-# Wrangling data
+# Manipular los datos
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

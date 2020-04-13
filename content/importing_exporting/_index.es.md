@@ -1,13 +1,13 @@
 ---
-title: Importing/Exporting data
+title: Importar/Exportar datos
 weight: 3
 pre: "<b>2. </b>"
 chapter: true
 ---
 
-### Chapter 2
+### Capítulo 2
 
-# Importing and exporting data
+# Importar/Exportar datos
 
 
 
