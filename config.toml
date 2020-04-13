@@ -95,4 +95,4 @@ name = "<i class='fa fa-fw fa-bullhorn'></i> Acerca de"
 url = "https://learn.r-journalism.com/es/about"
 weight = 30
 
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$, "public/$"]
