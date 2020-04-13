@@ -1,13 +1,13 @@
 ---
-title: Spatial analysis
+title: Análisis espacial
 weight: 6
 pre: "<b>5. </b>"
 chapter: true
 ---
 
-### Chapter 5
+### Capítulo 5
 
-# Spatial analysis
+# Análisis espacial
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

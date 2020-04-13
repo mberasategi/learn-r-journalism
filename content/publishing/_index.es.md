@@ -1,13 +1,13 @@
 ---
-title: Publishing
+title: Publicación
 weight: 7
 pre: "<b>6. </b>"
 chapter: true
 ---
 
-### Chapter 6
+### Capítulo 6
 
-# Publishing
+# Publicación
 
 
 Reproducible research means structuring your project and code so that others can follow your steps to verify your findings and possibly build on your work.
