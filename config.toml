@@ -1,6 +1,6 @@
 baseURL = ""
-languageCode = "en-US"
-defaultContentLanguage = "en"
+languageCode = "es-ES"
+defaultContentLanguage = "es"
 
 title = "Learn R Journalism"
 theme = "hugo-theme-learn"
@@ -85,12 +85,14 @@ url = "https://github.com/r-journalism/learn-r-journalism"
 weight = 20
 
 [[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bookmark'></i> R Journalism Case Studies"
+name = "<i class='fa fa-fw fa-bookmark'></i> R en periodismo, estudios de caso"
 identifier = "hugodoc"
 url = "https://r-journalism.com"
 weight = 10
 
 [[Languages.es.menu.shortcuts]]
-name = "<i class='fa fa-fw fa-bullhorn'></i> About"
+name = "<i class='fa fa-fw fa-bullhorn'></i> Acerca de"
 url = "https://learn.r-journalism.com/es/about"
 weight = 30
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
