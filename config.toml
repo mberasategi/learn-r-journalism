@@ -9,7 +9,7 @@ metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
 [params]
-  editURL = "https://github.com/r-journalism/learn-r-journalism/edit/master/content/"
+  editURL = "https://github.com/mberasategi/learn-r-journalism/edit/master/content/"
   description = "Learn R Journalism"
   author = "Andrew Ba Tran"
   showVisitedLinks = true
