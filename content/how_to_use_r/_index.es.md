@@ -1,13 +1,13 @@
 ---
-title: "How to use R"
+title: "Cómo usar R"
 weight: 2
 pre: "<b>1. </b>"
 chapter: true
 ---
 
-### Chapter 1
+### Capítulo 1
 
-# How to use R
+# Cómo usar R
 
 
 We need to go over some basics before we get to the fun part of playing with data in R.
